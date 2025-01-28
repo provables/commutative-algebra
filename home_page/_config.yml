@@ -20,7 +20,7 @@
 
 title: Commutative Algebra
 #email: your-email@example.com
-description: by Walter Moreiraand Joe Stubbs
+description: by Walter Moreira and Joe Stubbs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://provables.github.io/commutative-algebra" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:

@@ -59,6 +59,7 @@
           graphviz
           texliveFull
           ghostscript
+          ruby_3_1
         ] ++ lib.optional stdenv.isDarwin apple-sdk_14;
       };
     }
