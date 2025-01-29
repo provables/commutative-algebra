@@ -60,6 +60,7 @@
           texliveFull
           ghostscript
           ruby_3_1
+          rsync
         ] ++ lib.optional stdenv.isDarwin apple-sdk_14;
       };
     }
