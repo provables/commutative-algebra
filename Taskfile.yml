@@ -29,7 +29,7 @@ tasks:
   build-blueprint:
     desc: Build blueprint
     sources:
-      - blueprint/src/**/*
+      - blueprint/src/content.tex
       - exclude: blueprint/print/**/*
       - exclude: blueprint/web/**/*
     generates:
